@@ -1,0 +1,5 @@
+sentence = input("Enter your sentence: ")
+print("Your sentence is: " + sentence)
+world1 = input("Enter the world you want to replace: ")
+world2 = input("Enter the replacement world: ")
+print(sentence.replace(world1 , world2))

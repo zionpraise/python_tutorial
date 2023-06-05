@@ -1,0 +1,11 @@
+if user choice is = rock and computer choice = rock then we say it's a tie
+if user choice is = paper and computer choice = paper then we say it's a tie
+if user choice is = Scissors and computer choice = Scissors then we say it's a tie
+
+if user choice is = rock and computer choice = paper then computer wins
+if user choice is = paper and computer choice = Scissors then computer wins
+if user choice is = Scissors and computer choice = rock then computer wins
+
+if user choice is = rock and computer choice = Scissors then user Wins 
+if user choice is = paper and computer choice = rock then user Wins
+if user choice is = Scissors and computer choice = paper then user wins
